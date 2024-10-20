@@ -45,3 +45,20 @@ hiver [ivɛʁ]
 :::
 
 看到这么多规则和例外，可能会让你感到法语很难，其实并不然。只要多看、多读、多练习，在实际生活中经常接触和使用不同的词汇，慢慢地你就能自然地将它们融入你的记忆中 😊。
+
+## Les consignes en classe 课堂用语
+
+在课上，我们会经常听到或看到以下词汇，需要你们能够熟记下来。
+
+-   écouter 听
+-   répéter 重复
+-   parlez / dites 说
+-   écrivez 写
+-   regardez 看
+-   lisez 读
+
+:::info 动词变位
+注意以上动词都是以 vous 为人称的变位动词，动词原形依次是: écouter, répéter, parler/dire, écrire, regarder, lire。
+
+关于动词变位的规则我们会在之后的课程中讲到。
+:::
