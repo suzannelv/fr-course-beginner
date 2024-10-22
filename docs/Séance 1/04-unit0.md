@@ -1,4 +1,4 @@
-# 第 0 单元 - Bienvenue!
+# 第 0 单元 (上) - Bienvenue!
 
 ## Partie A : C'est en français ! 这就是法语
 
@@ -149,22 +149,45 @@
 
 在上面的例句中，主要涉及两种代词用法：
 
--   **自反代词：（Pronom réfléchi**）
+-   **自反代词（Pronom réfléchi**）
     自反代词是指在句子中用于指代主语自身的代词，用来表示主语的动作作用于自身。它帮助构成自反动词，并且在句子中承担宾语的角色。例如，在动词 **s'appeler** 中的 **se** 就是自反代词。
 
--   **重读人称代词(le pronom personnel tonique)**
-    重读人称代词用于强调主语，**Moi**, je **m**'appelle Louise。
+-   **重读人称代词 (le pronom personnel tonique)**
+    重读人称代词用于强调主语，**Moi**, je m'appelle Louise。
 
-有时也可在省略句中使用。例如在对话中 **et vous ?** 可以省略主语，直接使用重读代词。
+    有时也可在省略句中使用。例如在对话中 **et vous ?** 实际上是对 Et vous, comment vous appelez-vous ? （那您叫什么名字？）的简化，就是不需要主语和动词的搭配而直接使用重读代词。由于上下文已经清楚地指向了对方的动作，主语和动词变得不必要。我们只保留重读代词，即 vous，用来反问对方。
 
 下面表格展示了法语中的人称代词，分为主语人称代词和重读人称代词。
-| | 主语人称代词 | 重读人称代词 |
-| :------ | :----------: | -------------------------------------: |
-| 我 | je | <span style={{color:"red"}}>moi</span> |
-| 你 | tu | <span style={{color:"red"}}>toi</span> |
-| 他 | il | <span style={{color:"red"}}>lui</span> |
-| 她 | elle | elle |
-| 我们 | nous | nous |
-| 你们/您 | vous | vous |
-| 他们 | ils | <span style={{color:"red"}}>eux</span> |
-| 她们 | elles | elles |
+| | 主语人称代词 | 自反代词|重读人称代词 |
+| :------ | :----------: |:----------: | -------------------------------------: |
+| 我 | je | me(m') |<span style={{color:"red"}}>moi</span> |
+| 你 | tu | te(t')|<span style={{color:"red"}}>toi</span> |
+| 他 | il | <span style={{color:"green"}}>se(s')</span> |<span style={{color:"red"}}>lui</span> |
+| 她 | elle |<span style={{color:"green"}}>se(s')</span> | elle |
+| 我们 | nous |nous| nous |
+| 你们/您 | vous |vous| vous |
+| 他们 | ils |<span style={{color:"green"}}>se(s')</span> | <span style={{color:"red"}}>eux</span> |
+| 她们 | elles | <span style={{color:"green"}}>se(s')</span> |elles |
+
+:::note 省略形式（me/m'，te/t'，se/s')
+
+-   在以元音或哑音 h 开头的动词前，自反代词的形式会发生缩合，即：
+
+    -   me → m'
+    -   te → t'
+    -   se → s'
+
+-   这种缩合形式在法语中是为了保持发音的流畅性，以避免两个元音之间的停顿。
+    例如 s'appeler (se + appeler) 动词原形：
+    | | s'appeler |
+    | :------ | :----------: |
+    | 我叫 | je m'appelle |
+    | 你叫 | tu t'appelles |
+    | 他叫 | il s'appelle |
+    | 她叫 | elle s'appelle |
+    | 我们叫 | nous nous appelons |
+    | 你们叫/您叫| vous vous appelez |
+    | 他们叫| ils s'appellent |
+    | 她们叫 | elles s'appellent |
+
+:::
