@@ -120,3 +120,51 @@
 参考[法语字母 A-Z](./02-alphabet.md)章节。
 
 ## Partie D : Je m'appelle... 我叫……
+
+这一部分我们学习了如何用法语自我介绍，并初步接触代词的用法。
+
+### 自我介绍
+
+在法语中，自我介绍时通常有两种常用表达：
+
+-   Je m'appelle... 表示“我叫……”。
+-   Je suis... 表示“我是……”。
+
+如课上我们接触到的例句：
+—— Bonjour, je m'appelle Diego.（你好，我叫迭戈。）
+
+—— Bonjour, Diego.（你好，迭戈。）
+
+两种表达方式都很常见，尤其是 "je m'appelle" 更常用于告诉别人你的名字。
+
+### 代词
+
+接下来，我们看看代词在自我介绍中的使用。观察以下对话：
+
+—— **Moi**, je **m**'appelle Louise, et **vous** ?（我叫露易丝，那您呢？）
+
+—— Et **moi**, je **m**'appelle Léo.（我叫莱奥。）
+
+在法语中，代词分很多中，如主语代词，直宾或间宾代词，自反代词，还有重读人称代词。
+
+在上面的例句中，主要涉及两种代词用法：
+
+-   **自反代词：（Pronom réfléchi**）
+    自反代词是指在句子中用于指代主语自身的代词，用来表示主语的动作作用于自身。它帮助构成自反动词，并且在句子中承担宾语的角色。例如，在动词 **s'appeler** 中的 **se** 就是自反代词。
+
+-   **重读人称代词(le pronom personnel tonique)**
+    重读人称代词用于强调主语，**Moi**, je **m**'appelle Louise。
+
+有时也可在省略句中使用。例如在对话中 **et vous ?** 可以省略主语，直接使用重读代词。
+
+下面表格展示了法语中的人称代词，分为主语人称代词和重读人称代词。
+| | 主语人称代词 | 重读人称代词 |
+| :------ | :----------: | -------------------------------------: |
+| 我 | je | <span style={{color:"red"}}>moi</span> |
+| 你 | tu | <span style={{color:"red"}}>toi</span> |
+| 他 | il | <span style={{color:"red"}}>lui</span> |
+| 她 | elle | elle |
+| 我们 | nous | nous |
+| 你们/您 | vous | vous |
+| 他们 | ils | <span style={{color:"red"}}>eux</span> |
+| 她们 | elles | elles |
