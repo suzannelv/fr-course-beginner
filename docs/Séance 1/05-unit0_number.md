@@ -161,3 +161,25 @@ Your browser does not support the audio element.
 例如：1er avril（04 月 01 日），表达为 le premier avril。
 
 :::
+
+## Partie F : Dans la classe 课堂上
+
+### 学生常用课堂用语
+
+以下是学生在课堂上常用的一些表达：
+
+a. Comment à s'écrit ? (如何拼写 ?)
+
+b. Vous pouvez répéter s'il vous plaît ? (你能再说一遍吗？)
+
+c. Excusez-moi, je suis en retard. (对不起，我迟到了。)
+
+d. Je ne comprends pas. (我不明白。)
+
+e. Comment on dit… en français ? (用法语怎么说？)
+
+:::info 礼貌用语
+当你向别人请求某件事情时，记得在句尾加上 S’il vous plaît ?/S’il te plaît ? “拜托”或“请”（相当于英语中的 please）。
+
+请求别人原谅时，可以使用 Pardon/Excusez-moi， “对不起”或“抱歉”。（相当于英语中的 Sorry/Excuse me.）
+:::
