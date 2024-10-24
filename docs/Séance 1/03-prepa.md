@@ -14,7 +14,7 @@
 
 ![voyelles](../assets/img/prepa_consonnes1.png)
 
-## 发音规则
+<!-- ## 发音规则
 
 -   元音字母 e 在词尾不发音 (注意：在没有任何特殊符号的时候);
 
@@ -61,4 +61,4 @@ hiver [ivɛʁ]
 注意以上动词都是以 vous 为人称的变位动词，动词原形依次是: écouter, répéter, parler/dire, écrire, regarder, lire。
 
 关于动词变位的规则我们会在之后的课程中讲到。
-:::
+::: -->

@@ -1,6 +1,6 @@
 # 第 0 单元 (下) - Bienvenue!
 
-## Partie E : Un, deux, trois! (一， 二，三)
+<!-- ## Partie E : Un, deux, trois! (一， 二，三)
 
 欢迎来到法语的数字世界！
 
@@ -34,7 +34,7 @@ Your browser does not support the audio element.
 | [vɛ̃]  | [vɛ̃t-e-œ̃]   |  [vɛ̃t-dø]  | [vɛ̃t-tʁwɑ]  |  [vɛ̃t-katʁ]  | [vɛ̃t-sɛ̃k]  | [vɛ̃t-sis] | [vɛ̃t-sɛt]  | [vɛ̃t-ɥit]  | [vɛ̃t-nœf]  |
 
 **（30,31）：**
-| 30 | 31 |  
+| 30 | 31 |
 | :--- | :---- |
 | trente | trente et un |
 | [tʁɑ̃t] | [tʁɑ̃t-e-œ̃] |
@@ -182,4 +182,4 @@ e. Comment on dit… en français ? (用法语怎么说？)
 当你向别人请求某件事情时，记得在句尾加上 S’il vous plaît ?/S’il te plaît ? “拜托”或“请”（相当于英语中的 please）。
 
 请求别人原谅时，可以使用 Pardon/Excusez-moi， “对不起”或“抱歉”。（相当于英语中的 Sorry/Excuse me.）
-:::
+::: -->
