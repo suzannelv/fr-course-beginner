@@ -1,6 +1,6 @@
 # 第 0 单元 (下) - Bienvenue!
 
-<!-- ## Partie E : Un, deux, trois! (一， 二，三)
+## Partie E : Un, deux, trois! (一， 二，三)
 
 欢迎来到法语的数字世界！
 
@@ -95,7 +95,7 @@ Your browser does not support the audio element.
     特定词汇：如 et（和）不联诵，例句：il est parti, et elle aussi.
     :::
 
-## Partie F : Aujourd'hui, c'est le... (今天是...)
+<!-- ## Partie F : Aujourd'hui, c'est le... (今天是...)
 
 在这一部分，你将学习如何用法语表达日期。你将学会说出“今天”、“明天”等相关词汇，以及如何表达一年的月份。
 
