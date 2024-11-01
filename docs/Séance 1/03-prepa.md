@@ -25,7 +25,7 @@
 
 -   单独 h 不发音，但和 ch 组合发[ ʃ ]的音，如：Chine [ʃin];
 
--   大部分辅音在词尾不发音，如 salut [saly]，t 不发音，grand [ɡʁɑ̃]，d 不发音 ;
+-   大部分辅音在词尾不发音，如 salut [saly]，t 不发音，grand [ɡrɑ̃]，d 不发音 ;
 
 :::info 凡事总有例外 😕
 **通常发音的辅音**
@@ -33,7 +33,7 @@
 sac [sak]，public [pyblik],
 vif [vif]，neuf [nœf],
 canal [kanal]，animal [animal],
-hiver [ivɛʁ]
+hiver [ivɛr]
 
 **例外情况**
 

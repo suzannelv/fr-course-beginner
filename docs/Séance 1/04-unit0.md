@@ -10,13 +10,13 @@
 
 **chocolat** [ʃɔkɔla] n.m / adj 巧克力
 
-**restaurant** [ʀɛstoʀɑ̃] n.m 餐厅
+**restaurant** [rɛstorɑ̃] n.m 餐厅
 
 **cinéma** [sinema] n.m 电影院
 
-**croissant** [kʀwasɑ̃] n.m 可颂，牛角面包
+**croissant** [krwasɑ̃] n.m 可颂，牛角面包
 
-**train** [tʀɛ̃] n.m 火车
+**train** [trɛ̃] n.m 火车
 
 **toilettes** [twalɛt] n.f 卫生间
 
@@ -89,7 +89,7 @@
 
 ### Vocabulaires 词汇扩展
 
-**bonjour** [bɔ̃ʒuʁ] 您好
+**bonjour** [bɔ̃ʒur] 您好
 
 **salut** [saly] 你好/再见
 
@@ -97,13 +97,13 @@
 
 **monsieur** [mɔ̃sjø] n 先生
 
-**merci** [mɛʁsi] 谢谢
+**merci** [mɛrsi] 谢谢
 
 **à demain** [a-dəmɛ̃] 明天见
 
 **au revoir** [o- ʁəvwaʁ] 再见
 
-**bonne journée** [bɔn-ʒuʁne] 祝你有美好的一天
+**bonne journée** [bɔn-ʒurne] 祝你有美好的一天
 
 **enfant** [ɑ̃fɑ̃] n 孩子
 
@@ -113,7 +113,7 @@
 
 **inconnu(e)** [ɛ̃kɔny] n 陌生人
 
-**famille** [fa.mij] n.f 家庭， 家人
+**famille** [famij] n.f 家庭， 家人
 
 ## Partie C : L'alphabet 字母表
 

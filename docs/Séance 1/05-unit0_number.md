@@ -17,27 +17,27 @@ Your browser does not support the audio element.
 | 0      | 1   |  2   |   3    |   4    |   5   |   6   |   7   |   8   |   9   |  10   |
 | :----- | :-- | :--: | :----: | :----: | :---: | :---: | :---: | :---: | :---: | :---: |
 | zéro   | un  | deux | trois  | quatre | cinq  |  six  | sept  | huit  | neuf  |  dix  |
-| [zeʁo] | [œ̃] | [dø] | [tʁwɑ] | [katʁ] | [sɛ̃k] | [sis] | [sɛt] | [ɥit] | [nœf] | [dis] |
+| [zero] | [œ̃] | [dø] | [trwɑ] | [katr] | [sɛ̃k] | [sis] | [sɛt] | [ɥit] | [nœf] | [dis] |
 
 **（11~19）：**
 
 | 11   | 12    |   13   |    14    |   15   |  16   |    17     |    18     |    19     |
 | :--- | :---- | :----: | :------: | :----: | :---: | :-------: | :-------: | :-------: |
 | onze | douze | treize | quatorze | quinze | seize | dix-sept  | dix-huit  | dix-neuf  |
-| [ɔ̃z] | [duz] | [tʁɛz] | [katɔʁz] | [kɛ̃z]  | [sɛz] | [dis-sɛt] | [dis-ɥit] | [dis-nœf] |
+| [ɔ̃z] | [duz] | [trɛz] | [katɔrz] | [kɛ̃z]  | [sɛz] | [dis-sɛt] | [dis-ɥit] | [dis-nœf] |
 
 **（20~29）：**
 
 | 20    | 21          |     22     |     23      |      24      |     25     |    26     |     27     |     28     |     29     |
 | :---- | :---------- | :--------: | :---------: | :----------: | :--------: | :-------: | :--------: | :--------: | :--------: |
 | vingt | vingt et un | vingt-deux | vingt-trois | vingt-quatre | vingt-cinq | vingt-six | vingt-sept | vingt-huit | vingt-neuf |
-| [vɛ̃]  | [vɛ̃t-e-œ̃]   |  [vɛ̃t-dø]  | [vɛ̃t-tʁwɑ]  |  [vɛ̃t-katʁ]  | [vɛ̃t-sɛ̃k]  | [vɛ̃t-sis] | [vɛ̃t-sɛt]  | [vɛ̃t-ɥit]  | [vɛ̃t-nœf]  |
+| [vɛ̃]  | [vɛ̃t-e-œ̃]   |  [vɛ̃t-dø]  | [vɛ̃t-trwɑ]  |  [vɛ̃t-katr]  | [vɛ̃t-sɛ̃k]  | [vɛ̃t-sis] | [vɛ̃t-sɛt]  | [vɛ̃t-ɥit]  | [vɛ̃t-nœf]  |
 
 **（30,31）：**
 | 30 | 31 |
 | :--- | :---- |
 | trente | trente et un |
-| [tʁɑ̃t] | [tʁɑ̃t-e-œ̃] |
+| [trɑ̃t] | [trɑ̃t-e-œ̃] |
 
 :::tip 你发现什么规律？
 
@@ -115,7 +115,7 @@ Your browser does not support the audio element.
 | 前天 | 昨天 | 今天|明天|后天|
 | :------- | :------: | -----------: |-----------: |-----------: |
 | avant-hier | hier | aujourd'hui |demain| après-demain|
-| [avɑ̃-jɛr] | [jɛr] | [oʒuʁ-dɥi] |[dəmɛ̃]| [apʁɛ-dəmɛ̃]|
+| [avɑ̃-jɛr] | [jɛr] | [oʒur-dɥi] |[dəmɛ̃]| [aprɛ-dəmɛ̃]|
 
 课下需要不断练习并熟记这些单词。同时，要学会如何询问和表达日期。
 
@@ -130,17 +130,17 @@ Your browser does not support the audio element.
 | 中文   |   法语    |       发音 |
 | :----- | :-------: | ---------: |
 | 一月   |  janvier  |   [ʒɑ̃-vje] |
-| 二月   |  février  |  [fe-vʁje] |
-| 三月   |   mars    |     [maʁs] |
-| 四月   |   avril   |    [avʁil] |
+| 二月   |  février  |  [fe-vrje] |
+| 三月   |   mars    |     [mars] |
+| 四月   |   avril   |    [avril] |
 | 五月   |    mai    |       [mɛ] |
 | 六月   |   juin    |      [ʒɥɛ̃] |
 | 七月   |  juillet  |    [ʒɥijɛ] |
 | 八月   |   août    |       [ut] |
-| 九月   | septembre | [sɛp-tɑ̃bʁ] |
-| 十月   |  octobre  |  [ɔk-tɔbʁ] |
-| 十一月 | novembre  |  [nɔ-vɑ̃bʁ] |
-| 十二月 | décembre  |  [de-sɑ̃bʁ] |
+| 九月   | septembre | [sɛp-tɑ̃br] |
+| 十月   |  octobre  |  [ɔk-tɔbr] |
+| 十一月 | novembre  |  [nɔ-vɑ̃br] |
+| 十二月 | décembre  |  [de-sɑ̃br] |
 
 同样，月份的首字母通常不用大写，除非是在句子的开头或正式场合。
 
