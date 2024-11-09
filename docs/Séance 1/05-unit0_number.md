@@ -95,7 +95,7 @@ Your browser does not support the audio element.
     特定词汇：如 et（和）不联诵，例句：il est parti, et elle aussi.
     :::
 
-<!-- ## Partie F : Aujourd'hui, c'est le... (今天是...)
+## Partie F : Aujourd'hui, c'est le... (今天是...)
 
 在这一部分，你将学习如何用法语表达日期。你将学会说出“今天”、“明天”等相关词汇，以及如何表达一年的月份。
 
@@ -182,4 +182,4 @@ e. Comment on dit… en français ? (用法语怎么说？)
 当你向别人请求某件事情时，记得在句尾加上 S’il vous plaît ?/S’il te plaît ? “拜托”或“请”（相当于英语中的 please）。
 
 请求别人原谅时，可以使用 Pardon/Excusez-moi， “对不起”或“抱歉”。（相当于英语中的 Sorry/Excuse me.）
-::: -->
+:::
